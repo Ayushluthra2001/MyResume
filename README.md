@@ -1,2 +1,2 @@
 # MyResume
-My Resume Website / Portfolio Website 
+My Resume Website / Web Development Project
